@@ -17,6 +17,8 @@
 <a href="https://github.com/nsarkhanov/nsarkhanov">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nsarkhanov&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
 </a>
+
+
 <a href="https://github.com/nsarkhanov/nsarkhanov">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=nsarkhanov&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Nurlan's GitHub Stats" />
 </a>
@@ -27,7 +29,7 @@
 
 
 <a href="https://github.com/nsarkhanov/Portfolio">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nsarkhanov&repo=Portfoliot&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nsarkhanov&repo=Portfolio&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>    
 
 <!-- links to social media icons -->
