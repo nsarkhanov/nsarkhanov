@@ -20,10 +20,10 @@
 <a href="https://github.com/nsarkhanov/nsarkhanov">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=nsarkhanov&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Nurlan's GitHub Stats" />
 </a>
-<!-- 
-<a href="https://github.com/nsarkhanov/python-project-blueprint">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MartinHeinz&repo=python-project-blueprint&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a> -->
+
+<a href="https://github.com/nsarkhanov/Strive_AI_Course">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nsarkhanov&repo=Strive_AI_Course&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
 
 <!-- 
 <a href="https://github.com/MartinHeinz/go-project-blueprint">
@@ -44,7 +44,6 @@
  -->
 <!-- links to your social media accounts -->
 
-[1]: https://twitter.com/Martin_Heinz_
 [2]: https://github.com/nsarkhanov
 [3]: https://www.linkedin.com/in/nurlan-sarkhanov-8749a698/
 
