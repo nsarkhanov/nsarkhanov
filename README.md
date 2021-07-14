@@ -24,7 +24,7 @@
 </a>
 
 <a href="https://github.com/nsarkhanov/Strive_AI_Course">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nsarkhanov&repo=Strive_AI_Course&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nsarkhanov&repo=Strive_AI_Course&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />infotmation
 </a>
 
 
